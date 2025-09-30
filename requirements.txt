@@ -1,0 +1,4 @@
+Pillow
+art
+numpy
+opencv-python
